@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bhak90-tesh
-- 👀 I’m interested in Web Devlopment and MLDS
-- 🌱 I’m currently learning PICT PUNE
+- 👋 Hi, I’m Ashutosh Patil
+- 👀 IT Engineer
+- 🌱 Persuing B.E at PICT Pune
 - 📫 How to reach me ashutosh.patil234
 
 <!---
