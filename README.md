@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhak90-tesh
 - 👀 I’m interested in Web Development and AL/ML
 - 💞️ I’m looking to collaborate on R&D
-
+Google Schlor : https://scholar.google.co.in/citations?hl=en&user=a1SH24AAAAAJ
 - 😄 Pronouns:He/MR
 
 
