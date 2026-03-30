@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Vijaykumar Patil</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
-- 🔭 I’m currently working on **Competative Programming, MERN Stcak and Java**
+- 🔭 I’m currently working on **Competitive Programming, MERN Stcak and Java**
 
 - 🌱 I’m currently learning **Advanced DSA, System Design,Backend Development & more**
 
