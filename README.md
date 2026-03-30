@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Vijaykumar Patil</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 
-- 🔭 I’m currently working on **Competitive Programming, MERN Stcak and Java**
+- 🔭 I’m currently working on **Competative Programming, MERN Stcak and Java**
 
 - 🌱 I’m currently learning **Advanced DSA, System Design,Backend Development & more**
 
 - 👯 I’m looking to collaborate on **Open Source and Software Development projects**
 
 - 🤝 I’m looking for help with **System Design, Backend Architecture, and Large Scale Applications**
+
+- 📝 I may write articles on [@ashutoshpatil359](@ashutoshpatil359)
 
 - 💬 Ask me about **Problem Solving, Machine Learning and Web Development**
 
@@ -17,13 +19,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashutoshpatil359/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutoshpatil359/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/bhaktesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/bhaktesh" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/itzashutoshv/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itzashutoshv/?hl=en" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/knightofnation" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/knightofnation" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ashutoshpatil359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ashutoshpatil359" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ashzz1990/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ashzz1990/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/ashutoshpozb9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/ashutoshpozb9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashutoshpatil359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutoshpatil359" height="30" width="40" /></a>
+<a href="https://kaggle.com/bhaktesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhaktesh" height="30" width="40" /></a>
+<a href="https://instagram.com/itzashutoshv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzashutoshv" height="30" width="40" /></a>
+<a href="https://medium.com/@ashutoshpatil359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashutoshpatil359" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/knightofnation" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="knightofnation" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ashutoshpatil359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashutoshpatil359" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashzz1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashzz1990" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ashutoshpozb9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashutoshpozb9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
